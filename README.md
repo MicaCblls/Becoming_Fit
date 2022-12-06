@@ -1,4 +1,5 @@
-![HenryLogo](https://images.unsplash.com/photo-1664972571708-bce882c6555e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+![becomingfit](https://user-images.githubusercontent.com/83962558/205777340-d63e97ed-3a76-4766-8bd3-f49561eb717d.jpg)
+![becomingFitHome](https://user-images.githubusercontent.com/83962558/205777344-35ce1f5f-fa05-4d6b-875a-4b6581708c19.jpg)
 
 # Final Project - Becoming Fit
 
